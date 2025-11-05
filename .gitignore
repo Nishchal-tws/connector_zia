@@ -44,6 +44,7 @@ frontend/zia/npm-debug.log*
 frontend/zia/yarn-debug.log*
 frontend/zia/yarn-error.log*
 
+
 # Amplifi token cache
 amplifi_token.json
 
@@ -55,4 +56,4 @@ htmlcov/
 # Temporary files
 *.tmp
 *.temp
-
+LEARNING_GUIDE.md
