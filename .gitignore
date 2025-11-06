@@ -43,7 +43,7 @@ frontend/zia/.env.production.local
 frontend/zia/npm-debug.log*
 frontend/zia/yarn-debug.log*
 frontend/zia/yarn-error.log*
-
+frontend/zia/build
 
 # Amplifi token cache
 amplifi_token.json
