@@ -1,6 +1,6 @@
 {
-  "installCommand": "git submodule update --init --recursive --depth 1",
-  "buildCommand": "cd frontend/zia && npm ci && npm run build",
+  "installCommand": "cd frontend/zia && npm ci",
+  "buildCommand": "cd frontend/zia && npm run build",
   "outputDirectory": "frontend/zia/build",
   "framework": null,
   "rewrites": [
